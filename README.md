@@ -11,7 +11,7 @@ If you're not a developer or have limited technical knowledge, [this longform, s
 
 If you're comfortable setting up web projects, just follow these steps:
 1. [Install Node.js](https://nodejs.org/en/download/package-manager/)
-2. `git clone https://github.com/robcalcroft/monzoweb && cd monzoweb`
+2. `git clone https://github.com/passion-127/monzoweb && cd monzoweb`
 3. `npm install` to install dependencies
 4. Setup your environment by setting the following variables in a `.env` file:
 ```
